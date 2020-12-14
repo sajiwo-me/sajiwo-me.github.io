@@ -1,0 +1,118 @@
+body {
+	margin: 0;
+	padding: 0;
+	/*background-color: black;*/
+}
+
+.navbar-brand {
+	font-family: 'Arvo', serif;
+}
+
+
+
+div.opening{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+.cont-img {
+	width: 50%;
+	text-align: center;
+}
+
+div.cont-img a {
+	text-decoration: none;
+	color: rgb(96, 123, 125);
+
+}
+
+.cont-img img{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
+div.opening div:last-child {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+div.opening div:last-child h1 {
+	font-family: 'Fredoka One', cursive;
+}
+
+
+div.pre {
+	margin-top: 79px;
+}
+
+.description {
+	/*height: 350px;*/
+	width: 100%;
+	border: 2px solid rgb(130, 142, 130);
+	border-radius: 11px;
+	padding: 11px;
+	font-family: 'Arvo', serif;
+	font-size: 17px;
+}
+
+
+div.skill {
+	margin-top: 55px;
+}
+
+
+div.skill div.container {
+	display: flex;
+	justify-content: space-around;
+	/*align-content: center;*/
+	text-align: center;
+	font-weight: bold;
+}
+
+
+div.skill div.container img {
+	height: 89px;
+}
+
+
+
+
+div.portfolio {
+	margin-top: 55px;
+}
+
+
+
+
+
+
+
+
+
+.closing {
+	font-family: 'Arvo', serif;
+	font-size: 17px;
+}
+
+
+footer {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 17px;
+	color: white;
+	/*height: 201px;*/
+	width: 100%;
+	/*display: flex;*/
+	/*justify-content: flex-end;*/
+	/*flex-direction: column;*/
+	text-align: center;
+	background-color: rgb(52, 142, 235);
+	padding-top: 45px;
+	padding-bottom: 23px;
+	/*padding: 23px 0;*/
+
+}
