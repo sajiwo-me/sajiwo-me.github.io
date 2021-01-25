@@ -87,6 +87,20 @@ div.portfolio {
 }
 
 
+div.portfolio-card {
+	margin: 50px 0px;
+	display: flex;
+	/*justify-content: */
+}
+
+.card{
+	margin: 0px 9px;
+}
+
+
+
+
+
 
 
 
