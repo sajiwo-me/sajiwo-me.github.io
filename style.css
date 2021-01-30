@@ -84,6 +84,7 @@ div.skill div.container img {
 
 div.portfolio {
 	margin-top: 55px;
+	width: 65%;
 }
 
 
@@ -137,7 +138,7 @@ img.img-fit {
 
 footer {
 	/*margin: */
-	margin-top: 100px;
+	margin-top: 65px;
 	font-family: 'Varela Round', sans-serif;
 	font-size: 17px;
 	color: white;
